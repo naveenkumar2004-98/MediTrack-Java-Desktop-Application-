@@ -24,3 +24,8 @@ features. The EHR system provides a secure digital repository for patient inform
 facilitating easy access and interoperability among different departments and 
 healthcare providers. This ensures continuity of care and enhances clinical decision
 making through data-driven insights. 
+
+
+ER Diagram
+
+<img width="1146" height="524" alt="image" src="https://github.com/user-attachments/assets/b8ed6a9f-b6c0-4189-94cb-ed7f937c9d74" />
